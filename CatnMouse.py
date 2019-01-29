@@ -1,5 +1,5 @@
 #!/bin/python3
-
+#solution for https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
 import os
 import sys
 
